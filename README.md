@@ -1,115 +1,118 @@
-# 👋 Hi, I'm Lalit Patil
+# `>_ LALIT PATIL`
 
 <p align="center">
-  <img src="./lalit-profile.png" width="170" alt="Lalit Patil" />
+  <img src="./lalit-profile.png" width="160" alt="Lalit Patil" />
 </p>
 
-<h3 align="center">Data Analyst | Web Developer</h3>
+<h3 align="center">
+  <code>DATA ANALYST</code> ⚡ <code>WEB DEVELOPER</code>
+</h3>
 
 <p align="center">
-  📍 Jalgaon, Maharashtra, India
-  <br/>
-  🎓 B.Tech – Data Science | GH Raisoni College, Jalgaon
-  <br/>
-  💼 Open to Internship Opportunities
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hello%2C+World!;Turning+Ideas+Into+Code;Building+Digital+Solutions;Analyze.+Develop.+Innovate." alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <em>Turning ideas into meaningful digital solutions.</em>
+  <img src="https://img.shields.io/badge/LOCATION-JALGAON%2C%20INDIA-00D9FF?style=for-the-badge&labelColor=080B12" />
+  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20INTERNSHIPS-00FF9C?style=for-the-badge&labelColor=080B12" />
 </p>
 
 ---
 
-## 🚀 About Me
+### `01 // WHO AM I`
 
-I'm Lalit Patil, a final-year B.Tech Data Science student passionate about technology, web development, and data analytics.
+```python
+class LalitPatil:
+    def __init__(self):
+        self.role = ["Data Analyst", "Web Developer"]
+        self.education = "B.Tech Data Science"
+        self.college = "GH Raisoni College, Jalgaon"
+        self.location = "Maharashtra, India"
+        self.interests = [
+            "Web Development",
+            "Data Analytics",
+            "Problem Solving",
+            "Building Real Projects"
+        ]
+        self.current_goal = "Become a better developer"
 
-- 🎓 Pursuing B.Tech in Data Science.
-- 💻 Interested in Web Development and Data Analytics.
-- 🐍 Learning Python and exploring data-driven solutions.
-- 🛠️ Building practical projects to improve my development skills.
-- 🌱 Always learning and improving.
-- 💼 Looking for internship opportunities.
+    def say_hi(self):
+        return "Let's build something meaningful!"
 
----
+me = LalitPatil()
+print(me.say_hi())
+```
 
-## 💻 Tech Stack
+### `02 // TECH ARSENAL`
 
-**Programming Languages**
+**LANGUAGES**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-00D9FF?style=flat-square&logo=python&logoColor=black&labelColor=080B12)
+![Java](https://img.shields.io/badge/JAVA-00D9FF?style=flat-square&logo=openjdk&logoColor=white&labelColor=080B12)
+![HTML5](https://img.shields.io/badge/HTML5-00D9FF?style=flat-square&logo=html5&logoColor=white&labelColor=080B12)
+![CSS3](https://img.shields.io/badge/CSS3-00D9FF?style=flat-square&logo=css3&logoColor=white&labelColor=080B12)
+![PHP](https://img.shields.io/badge/PHP-00D9FF?style=flat-square&logo=php&logoColor=white&labelColor=080B12)
 
-**Web Development**
+**TOOLS & TECHNOLOGIES**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-00FF9C?style=flat-square&logo=git&logoColor=black&labelColor=080B12)
+![GitHub](https://img.shields.io/badge/GITHUB-00FF9C?style=flat-square&logo=github&logoColor=white&labelColor=080B12)
+![VS Code](https://img.shields.io/badge/VS_CODE-00FF9C?style=flat-square&logo=visualstudiocode&logoColor=white&labelColor=080B12)
+![MySQL](https://img.shields.io/badge/MYSQL-00FF9C?style=flat-square&logo=mysql&logoColor=white&labelColor=080B12)
+![Tailwind CSS](https://img.shields.io/badge/TAILWIND_CSS-00FF9C?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=080B12)
+![Chart.js](https://img.shields.io/badge/CHART.JS-00FF9C?style=flat-square&logo=chartdotjs&logoColor=white&labelColor=080B12)
 
-**Tools & Technologies**
+### `03 // FEATURED PROJECTS`
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+**[01] QUICK AI BASKET**
 
----
+`STATUS: IN DEVELOPMENT`
 
-## 🚀 Featured Projects
+Blinkit-inspired quick-commerce project with an AI-focused concept.
 
-### 🛒 Quick AI Basket
-**Status:** In Development
+**[02] MOBILE SHOP MANAGEMENT SYSTEM**
 
-A Blinkit-inspired quick-commerce project with an AI-focused concept.
+`STATUS: LIVE DEMO`
 
-### 📱 Mobile Shop Management System
-
-A PHP and MySQL-based management system designed for mobile shop operations.
+PHP and MySQL-based mobile shop management application.
 
 - Inventory and stock management
-- POS billing and invoices
-- GST calculations
-- Sales and expense tracking
-- Dashboard and analytics
-- Role-based staff management
+- POS billing and GST calculations
+- Sales, expenses and analytics dashboard
+- Staff roles and management
+- Invoice generation and stock restoration
 
-🔗 **[View Live Demo](https://mobileshop.freehosting.dev/login.php)**
+[↗ LAUNCH LIVE DEMO](https://mobileshop.freehosting.dev/login.php)
 
----
-
-## 📊 GitHub Stats
+### `04 // GITHUB ANALYTICS`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lalit-patil-77&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalit-patil-77&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lalit-patil-77&show_icons=true&theme=tokyonight&hide_border=true&bg_color=080B12&title_color=00D9FF&icon_color=00FF9C&text_color=FFFFFF" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalit-patil-77&layout=compact&theme=tokyonight&hide_border=true&bg_color=080B12&title_color=00D9FF&text_color=FFFFFF" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=lalit-patil-77&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=lalit-patil-77&theme=tokyonight&hide_border=true&background=080B12&ring=00D9FF&fire=00FF9C&currStreakLabel=00D9FF" width="70%" />
 </p>
 
----
+### `05 // CONNECT TO MY NETWORK`
 
-## 🤝 Connect With Me
-
-<p align="left">
+<p align="center">
   <a href="https://github.com/lalit-patil-77">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GITHUB-00D9FF?style=for-the-badge&logo=github&logoColor=white&labelColor=080B12" />
   </a>
   <a href="https://www.linkedin.com/in/lalit-patil-7b67a5347">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LINKEDIN-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=080B12" />
   </a>
   <a href="mailto:patillalit215@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/EMAIL-00FF9C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=080B12" />
   </a>
 </p>
 
----
-
 <p align="center">
-  <b>💙 BUILD • ANALYZE • INNOVATE</b>
+  <code>while(alive) { learn(); build(); innovate(); }</code>
+  <br/><br/>
+  <b>⚡ CODE. ANALYZE. INNOVATE. ⚡</b>
   <br/>
-  <em>Dream Big, Code Better.</em>
+  <sub>BUILDING THE FUTURE, ONE LINE AT A TIME.</sub>
 </p>
